@@ -16,7 +16,7 @@ I code full-stack projects, practise the violin (4+ years), and build tools & id
 
 ### 🛠 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,git,linux,figma,flask&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,python,html,css,js,react,nodejs,git,linux,figma&theme=dark" alt="Skill icons"/>
 </p>  
 _Languages & Frameworks_: JavaScript, Python, HTML5, CSS3, React, Node.js, Flask  
 _Tools & Platforms_: Git, Linux, Figma, VS Code  
