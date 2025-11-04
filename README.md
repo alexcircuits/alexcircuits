@@ -15,7 +15,7 @@ I code full-stack projects, and build tools & ideas to help ambitious students l
 
 ### 🛠 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,java,python,html,css,js,react,nodejs,git,linux,figma&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,java,python,html,css,js,react,nodejs,git,linux,figma,dart,flutter&theme=dark" alt="Skill icons"/>
 </p>  
 
 _Tools & Platforms_: Git, Linux, Figma, VS Code, Cursor, Jetbrains CLion, RustRover
