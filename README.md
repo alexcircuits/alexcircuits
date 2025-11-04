@@ -16,7 +16,7 @@ I code full-stack projects, practise the violin (4+ years), and build tools & id
 
 ### 🛠 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,Java,python,telegram,html,css,js,react,nodejs,git,linux,figma&theme=dark" alt="Skill icons"/>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,java,python,html,css,js,react,nodejs,git,linux,figma&theme=dark" alt="Skill icons"/>
 </p>  
 
 _Tools & Platforms_: Git, Linux, Figma, VS Code, Cursor, Jetbrains CLion, RustRover
