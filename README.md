@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
-## 🧩 Frontend & UI
+🧩 Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
-## 🛠 Backend, Infra & Tooling
+🛠 Backend, Infra & Tooling
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis"/>
@@ -42,14 +42,14 @@
   <img src="https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle"/>
 </p>
-## 🎨 Design & Media
+🎨 Design & Media
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator"/>
   <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro"/>
 </p>
-## 🚀 Currently Exploring
+🚀 Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
