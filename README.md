@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alexcircuits&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=alexcircuits&color=6](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcircuits&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
