@@ -25,7 +25,5 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<!-- Activity Graph - Full Width Banner -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcircuits&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
-</div>
+
+![STATS](https://statler.noirsystems.com/api/card/alexcircuits?include_private=true&accent=ef0002)
