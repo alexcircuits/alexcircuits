@@ -60,18 +60,51 @@ I'm expanding my skill set into exciting new territories:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-## 📊 GitHub Stats
-
+<!-- Activity Graph - Full Width Banner -->
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=alexcircuits&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=alexcircuits&theme=midnight-purple&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcircuits&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexcircuits&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 </div>
 
+<br/>
+
+<!-- Main Stats Grid -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=alexcircuits&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=alexcircuits&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" width="100%" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Languages & Trophy Row -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcircuits&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" width="38%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexcircuits&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Profile Summary Card -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexcircuits&theme=github_dark" width="100%" alt="Profile Summary"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexcircuits&style=for-the-badge&color=a855f7&label=Profile+Views" alt="Profile Views"/>
+</div>
 ---
 
 <div align="center">
