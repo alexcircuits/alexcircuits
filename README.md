@@ -26,4 +26,4 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)-->
 
 
-![STATS](https://statler.noirsystems.com/api/card/alexcircuits?include_private=true&full_width=true)
+![STATS](https://statler.noirsystems.com/api/card/alexcircuits?include_private=true&full_width=true&accent=ef0800)
