@@ -12,13 +12,3 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcircuits&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcircuits&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=alexcircuits&theme=radical&column=4&margin-w=15&no-frame=true)
