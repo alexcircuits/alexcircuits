@@ -17,4 +17,4 @@
 lingocon.com
 noirsystems.com
 
-**Newest project -- *![Crypto IDE]*** (cryptoide.com)
+**Newest project -- *[Crypto IDE](cryptoide.com)***
