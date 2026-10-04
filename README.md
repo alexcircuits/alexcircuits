@@ -1,20 +1,44 @@
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img align="right" src="./assets/circuit-mark.svg" width="56" height="56" alt="Alexcircuits circuit mark">
 
-**Frameworks & Tools**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# Alexander Chepkov
 
-**Links**
+**Founder & product builder** · [NoirSystems](https://noirsystems.com)
 
-lingocon.com
-noirsystems.com
+Web, systems, and developer tooling.
 
-**Newest project -- *[Crypto IDE](cryptoide.com)***
+## Languages
+
+<p>
+  <img src="./assets/typescript.svg" width="22" height="22" alt="">&nbsp;TypeScript &nbsp;&nbsp;
+  <img src="./assets/javascript.svg" width="22" height="22" alt="">&nbsp;JavaScript &nbsp;&nbsp;
+  <img src="./assets/rust.svg" width="22" height="22" alt="">&nbsp;Rust
+</p>
+<p>
+  <img src="./assets/cplusplus.svg" width="22" height="22" alt="">&nbsp;C++ &nbsp;&nbsp;
+  <img src="./assets/python.svg" width="22" height="22" alt="">&nbsp;Python &nbsp;&nbsp;
+  <img src="./assets/go.svg" width="22" height="22" alt="">&nbsp;Go
+</p>
+<p>
+  <img src="./assets/java.svg" width="22" height="22" alt="">&nbsp;Java &nbsp;&nbsp;
+  <img src="./assets/kotlin.svg" width="22" height="22" alt="">&nbsp;Kotlin
+</p>
+
+## Frameworks & platforms
+
+**Web** · React · Next.js · Tailwind CSS · HTML/CSS
+
+**JVM** · Spring Boot
+
+**Native** · Qt · CMake · WebAssembly
+
+## Infrastructure & workflow
+
+**Backend & data** · Node.js · PostgreSQL · Prisma
+
+**Delivery** · Docker · GitHub Actions
+
+**Testing** · Vitest · Playwright
+
+---
+
+[NoirSystems](https://noirsystems.com) &nbsp; / &nbsp; [ceo@noirsystems.com](mailto:ceo@noirsystems.com)
